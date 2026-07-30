@@ -1,0 +1,13 @@
+region,month,revenue,orders
+North,January,14200,91
+North,February,15600,98
+North,March,16100,104
+South,January,11800,80
+South,February,12300,84
+South,March,13050,88
+East,January,12100,76
+East,February,12900,79
+East,March,13400,83
+West,January,10450,64
+West,February,9900,61
+West,March,10200,63
