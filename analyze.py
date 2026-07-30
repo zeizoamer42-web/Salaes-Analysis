@@ -12,6 +12,7 @@ data = pd.read_csv("data.csv")
 print("First rows of the data:")
 print(data.head())
 print()
+print(f"Average feature:, {data["revenue"].mean()} ")
 
 # Total revenue across everything.
 total_revenue = data["revenue"].sum()
