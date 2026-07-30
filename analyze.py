@@ -4,6 +4,7 @@
 
 import pandas as pd
 
+print("Welcome to github")
 # Load the data from the CSV file.
 data = pd.read_csv("data.csv")
 
